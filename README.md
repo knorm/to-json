@@ -8,7 +8,4 @@
 [toJSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify#toJSON()_behavior)
 plugin for [@knorm/knorm](https://www.npmjs.com/package/@knorm/knorm).
 
-## [Documentation](https://knorm.netlify.com/plugins/to-json.html)
-
-View the docs on @knorm/knorm's documentation site
-[here](https://knorm.netlify.com/plugins/to-json.html).
+## Moved to https://github.com/knorm/knorm/tree/master/packages/to-json
